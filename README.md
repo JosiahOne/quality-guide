@@ -11,3 +11,7 @@ This is perfectly fine, but consistency is a desirable property to me. To this e
 
 ### Code Style
 Just use StandardJS: https://standardjs.com/
+
+Tip: You can add `/* global VarName */` to define a variable that is expected to be imported.
+
+Tip: You can add `// eslint-disable-line no-unused-vars` to lines that define classes to be used externally.
