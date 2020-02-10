@@ -9,9 +9,17 @@ This is perfectly fine, but consistency is a desirable property to me. To this e
 
 ## Javascript
 
+Note: Can you use Typescript instead? If so, do it.
+
 ### Code Style
 Just use StandardJS: https://standardjs.com/
 
 Tip: You can add `/* global VarName */` to define a variable that is expected to be imported.
 
 Tip: You can add `// eslint-disable-line no-unused-vars` to lines that define classes to be used externally.
+
+## Typescript
+
+### Code Style
+Use StandardJS: https://standardjs.com/
+
